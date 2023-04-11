@@ -5,8 +5,6 @@
 <a href="https://github.com/plastikaweb" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/plastikaweb" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/plastikaweb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -24,23 +22,26 @@ As an experienced web developer, I have a deep understanding of all stages of ad
 I effectively self-manage during independent projects and collaborate as part of a productive team.
 Applying SCRUM and good and clean code practices, I propose improvements in code, workflows, and any analysis and development stage.
 
-<br/>
+<a href="https//www.plastikaweb.com">www.plastikaweb.com</a>
 
-## Rapidfire
+<br/>
 
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Typescript and web accessibility at [FrontendMasters](https://frontendmasters.com).
-
+>
 - ❓ Ask me about anything related to angular, nx and related technologies.
-
+>
 - ✉️ Contact me at info@plastikaweb.com
+>
 - 📄 Take a look at my [CV](ttps://www.plastikaweb.com/assets/docs/Carlos_Matheu.pdf)
-
+>
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<p>A great starting point to get a feel for my coding style and approach:</p>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=plastikaweb&repo=plastikspace"/>
 </div>
 
 </td></tr></table>
@@ -85,6 +86,10 @@ Applying SCRUM and good and clean code practices, I propose improvements in code
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plastikaweb&" alt="plastikaweb" />
 </div>
 
+## Profile Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-profile-trophy.vercel.app/?username=plastikaweb" alt="plastikaweb" /></a> </p>
 ----
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=plastikaweb&&style=flat-square)
