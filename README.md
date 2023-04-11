@@ -29,13 +29,13 @@ Applying SCRUM and good and clean code practices, I propose improvements in code
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Typescript and web accessibility at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
+- 🌱 I’m currently learning `Typescript` and `web accessibility` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
 
-- ❓ Ask me about anything related to angular, nx and related technologies.
+- ❓ Ask me about anything related to `angular`, `Nx` and related technologies.
 
-- ✉️ Contact me at info@plastikaweb.com
+- ✉️ Contact me at info@plastikaweb.com .
 
-- 📄 Take a look at my <a href="https://www.plastikaweb.com/assets/docs/Carlos_Matheu.pdf" target="_blank">CV</a>
+- 📄 Take a look at my <a href="https://www.plastikaweb.com/assets/docs/Carlos_Matheu.pdf" target="_blank">CV</a>.
 
 </td><td valign="top" width="50%">
 
