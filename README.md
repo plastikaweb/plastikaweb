@@ -35,7 +35,7 @@ Applying SCRUM and good and clean code practices, I propose improvements in code
 >
 - ✉️ Contact me at info@plastikaweb.com
 >
-- 📄 Take a look at my [CV](ttps://www.plastikaweb.com/assets/docs/Carlos_Matheu.pdf)
+- 📄 Take a look at my [CV](https://www.plastikaweb.com/assets/docs/Carlos_Matheu.pdf)
 >
 </td><td valign="top" width="50%">
 
