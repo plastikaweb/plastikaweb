@@ -16,12 +16,15 @@
 
 ### Glad to see you here
 
-16+ Years of Expertise in Angular, Nx, and @ngrx Web Development
+16+ Years of Expertise in Web Development
 
-As an experienced web developer, I have a deep understanding of all stages of advanced web development using Angular, Nx, and @ngrx.
+I am a freelance frontend developer who specializes in Angular, Nx, and @ngrx. As a creative problem solver, I am dedicated to delivering exceptional results that exceed my clients' expectations.
 
-I effectively self-manage during independent projects and collaborate as part of a productive team.
-Applying SCRUM and good and clean code practices, I propose improvements in code, workflows, and any analysis and development stage.
+Whether working independently or in a team, I always keep the final product in mind. I am committed to delivering solutions that not only look great but are also accessible to all users, regardless of their abilities.
+
+My passion for frontend development stems from my love of generating new ideas and seeing them through to completion. With excellent organizational and communication skills, I am confident in my ability to deliver projects on time and within budget.
+
+As a motivated individual, I am always seeking to grow both personally and professionally. I am excited about the opportunity to work with clients who share my vision of using technology to make the world a better place.
 
 <a href="https//www.plastikaweb.com">www.plastikaweb.com</a>
 
