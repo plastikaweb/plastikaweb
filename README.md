@@ -34,7 +34,7 @@ As a motivated individual, I am always seeking to grow both personally and profe
 
 - ✉️ Contact me at info@plastikaweb.com .
 
-- 📄 Take a look at <a href="https://www.plastikaweb.comf" target="_blank">www.plastikaweb.com</a> and my <a href="https://www.plastikaweb.com/assets/docs/carlos_matheu_plastikaweb.pdf" target="_blank">CV</a>.
+- 📄 Take a look at <a href="https://www.plastikaweb.com" target="_blank">www.plastikaweb.com</a> and my <a href="https://www.plastikaweb.com/assets/docs/carlos_matheu_plastikaweb.pdf" target="_blank">CV</a>.
 
 </td><td valign="top" width="50%">
 
