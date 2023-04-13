@@ -26,7 +26,7 @@ My passion for frontend development stems from my love of generating new ideas a
 
 As a motivated individual, I am always seeking to grow both personally and professionally. I am excited about the opportunity to work with clients who share my vision of using technology to make the world a better place.
 
-<a href="https//www.plastikaweb.com">www.plastikaweb.com</a>
+[www.plastikaweb.com](https//www.plastikaweb.com)
 
 <br/>
 
@@ -38,14 +38,16 @@ As a motivated individual, I am always seeking to grow both personally and profe
 
 - ✉️ Contact me at info@plastikaweb.com .
 
-- 📄 Take a look at my <a href="https://www.plastikaweb.com/assets/docs/Carlos_Matheu.pdf" target="_blank">CV</a>.
+- 📄 Take a look at my <a href="https://www.plastikaweb.com/assets/docs/carlos_matheu_plastikaweb.pdf" target="_blank">CV</a>.
 
 </td><td valign="top" width="50%">
 
 <div align="center">
 <p>A great starting point to get a feel for my coding style and approach:</p>
 
+<a href="https://github.com/plastikaweb/plastikspace">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=plastikaweb&repo=plastikspace"/>
+</a>
 </div>
 
 </td></tr></table>
