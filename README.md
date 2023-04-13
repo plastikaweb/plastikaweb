@@ -87,7 +87,7 @@ As a motivated individual, I am always seeking to grow both personally and profe
 ## Profile Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-profile-trophy.vercel.app/?username=plastikaweb" alt="plastikaweb" /></a> </p>
+    src="https://github-profile-trophy.vercel.app/?username=plastikaweb&row=1&column=7" alt="plastikaweb" /></a> </p>
 ----
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=plastikaweb&&style=flat-square)
