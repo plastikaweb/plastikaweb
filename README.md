@@ -16,15 +16,18 @@
 
 ### Glad to see you here
 
-16+ Years of Expertise in Web Development
+I'm a `freelancer frontend developer` with over 16 years of expertise in web development. Here's a little bit about me and what I can offer:
 
-I am a freelance frontend developer who specializes in Angular, Nx, and @ngrx. As a creative problem solver, I am dedicated to delivering exceptional results that exceed my clients' expectations.
+- Main specialties: `Angular`, `NX`, and @`ngrx`.
 
-Whether working independently or in a team, I always keep the final product in mind. I am committed to delivering solutions that not only look great but are also accessible to all users, regardless of their abilities.
+- Approach: I'm a creative problem solver who is dedicated to delivering results that usually exceed my clients' expectations.
 
-My passion for frontend development stems from my love of generating new ideas and seeing them through to completion. With excellent organizational and communication skills, I am confident in my ability to deliver projects on time and within budget.
+- Focus: Whether working independently or in a team, I always keep the final product in mind and I am committed to delivering solutions that look great and are accessible to all users by applying clean code.
 
-As a motivated individual, I am always seeking to grow both personally and professionally. I am excited about the opportunity to work with clients who share my vision of using technology to make the world a better place.
+- Passion: I'm a motivated individual who seeks to use my creative abilities and grow as a person and a professional. I love generating new ideas and seeing them through to completion.
+
+- Assets: My great assets are organization, communication, and the ability to learn quickly.  
+As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
 <table><tr><td valign="top" width="50%">
 
