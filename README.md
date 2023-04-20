@@ -31,7 +31,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning `Typescript` and `web accessibility` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
+- 🌱 I’m currently learning `NX generators`, and `typescript` and `web accessibility` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
 
 - ❓ Ask me about anything related to `angular`, `Nx` and related technologies.
 
