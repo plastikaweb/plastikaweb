@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here
+### Helping clients achieve success by sharing best-practice solutions
 
 I'm a `freelancer frontend developer` with over 16 years of expertise in web development. Here's a little bit about me and what I can offer:
 
@@ -26,7 +26,7 @@ I'm a `freelancer frontend developer` with over 16 years of expertise in web dev
 
 - Passion: I'm a motivated individual who seeks to use my creative abilities and grow as a person and a professional. I love generating new ideas and seeing them through to completion.
 
-- Assets: My great assets are organization, communication, and the ability to learn quickly.  
+- Assets: My great assets are organization, communication, and the ability to learn quickly.
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
 <table><tr><td valign="top" width="50%">
@@ -70,6 +70,29 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
 </div>
+
+### Third party libaries I've worked with in an angular environment
+
+<ul align="left">
+     <li><a target="_blank" style="margin: 10px" href="https://formly.dev/">ngx-formly</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/assuncaocharles/ngx-indexed-db">ngx-indexed-db</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/czeckd/angular-svg-icon">angular-svg-icon</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://fontawesome.com">font-awesome</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://the-guild.dev/graphql/apollo-angular">apollo-angular</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://docs.amplify.aws/">AWS-amplify / cognito</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/swimlane/ngx-charts">ngx-charts</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://valor-software.com/ngx-bootstrap">ngx-bootstrap</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://primeng.org/">primeNG</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/swimlane/ngx-datatable">ngx-datatable</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/brix/crypto-js">crypto-js</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/ngx-translate/core">ngx-translate</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/angular/flex-layout">flex-layout</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/compodoc/compodoc">compodoc</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/firebase/geofire-js">firebase/geofire</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://leafletjs.com">leaflet</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/stevermeister/ngx-cookie-service">ngx-cookie-service</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/apexcharts/ng-apexcharts">ng-apexcharts</a></li>
+</ul>
 
 <br/>
 
