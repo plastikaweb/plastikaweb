@@ -2,18 +2,11 @@
 
 &nbsp;
 
-<table>
-<tr>
-<td width="25%">
-    <h2>Hey 👋, I'm Carlos</h2>
-</td>
-<td width="25%">
-<a style="float: right;" href="https://interstate21.com/certificate/?code=4E30VHP" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
-</td>
-</tr>
-</table>
+<a style="text-align: center; display: block" href="https://interstate21.com/certificate/?code=4E30VHP" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
 
 <hr>
+
+## Hey 👋, I'm Carlos
 
 <a href="https://linkedin.com/in/plastikaweb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
