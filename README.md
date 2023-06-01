@@ -2,7 +2,18 @@
 
 &nbsp;
 
-## Hey 👋, I'm Carlos
+<table>
+<tr>
+<td width="25%">
+    <h2>Hey 👋, I'm Carlos</h2>
+</td>
+<td width="25%">
+<a style="float: right;" href="https://interstate21.com/certificate/?code=4E30VHP" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
+</td>
+</tr>
+</table>
+
+<hr>
 
 <a href="https://linkedin.com/in/plastikaweb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -35,7 +46,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 - ❓ Ask me about anything related to `angular`, `Nx` and related technologies.
 
-- ✉️ Contact me at info@plastikaweb.com .
+- ✉️ Contact me at <info@plastikaweb.com> .
 
 - 📄 Take a look at <a href="https://www.plastikaweb.com" target="_blank">www.plastikaweb.com</a> and my <a href="https://www.plastikaweb.com/assets/docs/carlos_matheu_plastikaweb.pdf" target="_blank">CV</a>.
 
