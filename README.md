@@ -6,13 +6,13 @@
           <td valign="center" width="50%">
                <div align="right">
                     <a href="https://linkedin.com/in/plastikaweb" target="_blank">
-                    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" height="30" />
+                    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" height="40" />
                     </a>
                     <a href="https://github.com/plastikaweb" target="_blank">
-                    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=orange alt="github" height="30" />
+                    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=orange alt="github" height="40" />
                     </a>
                     <a href="https://www.plastikaweb.com" target="_blank">
-                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="plastikaweb" height="30" >
+                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="plastikaweb" height="40" >
                     </a>
                </div>
           </td>
