@@ -1,8 +1,8 @@
 
 ## Hey 👋, I'm Carlos
 
-<table align="center" cellspacing="0" cellpadding="0">
-     <tr>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" style="border: 0;">
+     <tr align="center">
           <td valign="center" width="50%">
                <div align="right">
                     <a href="https://linkedin.com/in/plastikaweb" target="_blank">
@@ -38,7 +38,7 @@ I'm a `freelancer frontend developer` with over 16 years of expertise in web dev
 - Assets: My great assets are organization, communication, and the ability to learn quickly.
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
-<table cellspacing="0" cellpadding="0"><tr><td valign="top" width="50%">
+<table cellspacing="0" cellpadding="0" style="border: 0"><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning `ionic` and `cypress` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
 
