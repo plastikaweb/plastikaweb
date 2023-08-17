@@ -1,18 +1,18 @@
 
 ## Hey 👋, I'm Carlos
 
-<table style="max-width: 50%" align="center">
+<table width="100%" align="center">
      <tr>
           <td valign="center" width="50%">
                <div align="right">
                     <a href="https://linkedin.com/in/plastikaweb" target="_blank">
-                    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" height="35" />
+                    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" height="20" />
                     </a>
                     <a href="https://github.com/plastikaweb" target="_blank">
-                    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" height="35" />
+                    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=orange alt="github" height="20" />
                     </a>
                     <a href="https://www.plastikaweb.com" target="_blank">
-                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="plastikaweb" height="35" >
+                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="plastikaweb" height="20" >
                     </a>
                </div>
           </td>
