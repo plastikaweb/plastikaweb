@@ -24,6 +24,7 @@
      </tr>
 </table>
 <br>
+
 ### Helping clients achieve success by sharing best-practice solutions
 
 I'm a `freelancer frontend developer` with over 16 years of expertise in web development. Here's a little bit about me and what I can offer:
