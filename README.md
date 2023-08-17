@@ -1,9 +1,9 @@
 
 ## Hey 👋, I'm Carlos
 
-<table width="100%" align="center" cellspacing="0" cellpadding="0" style="border: 0;">
+<table width="100%" align="center" cellspacing="0" cellpadding="0" style="border: 0; margin-left:auto;margin-right:auto;">
      <tr align="center">
-          <td valign="center" width="50%">
+          <td valign="center" width="50%" style="border: 0;">
                <div align="right">
                     <a href="https://linkedin.com/in/plastikaweb" target="_blank">
                     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" height="35" />
@@ -38,7 +38,7 @@ I'm a `freelancer frontend developer` with over 16 years of expertise in web dev
 - Assets: My great assets are organization, communication, and the ability to learn quickly.
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
-<table cellspacing="0" cellpadding="0" style="border: 0"><tr><td valign="top" width="50%">
+<table cellspacing="0" cellpadding="0" style="border: 0"><tr><td valign="top" width="50%" style="border: 0;>
 
 - 🌱 I’m currently learning `ionic` and `cypress` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
 
