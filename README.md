@@ -1,18 +1,18 @@
 
 ## Hey 👋, I'm Carlos
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
      <tr>
           <td valign="center" width="50%">
                <div align="right">
                     <a href="https://linkedin.com/in/plastikaweb" target="_blank">
-                    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px" height="35" />
+                    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" height="35" />
                     </a>
                     <a href="https://github.com/plastikaweb" target="_blank">
-                    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" height="35" style="margin-bottom: 5px" />
+                    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" height="35" />
                     </a>
                     <a href="https://www.plastikaweb.com" target="_blank">
-                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="plastikaweb" height="30" style="margin-bottom: 8px" >
+                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="plastikaweb" height="35" >
                     </a>
                </div>
           </td>
@@ -38,7 +38,7 @@ I'm a `freelancer frontend developer` with over 16 years of expertise in web dev
 - Assets: My great assets are organization, communication, and the ability to learn quickly.
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
-<table><tr><td valign="top" width="50%">
+<table cellspacing="0" cellpadding="0"><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning `ionic` and `cypress` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
 
