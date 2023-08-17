@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm Carlos
 
-<table width="100%" align="center">
+<table style="max-width: 50%" align="center">
      <tr>
           <td valign="center" width="50%">
                <div align="right">
