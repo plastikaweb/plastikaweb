@@ -1,24 +1,28 @@
-<img src="banner.png" align="left" height="" width="850px" />
-
-&nbsp;
-
-<div align="center">
-<a href="https://interstate21.com/certificate/?code=4E30VHP" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
-</div>
 
 ## Hey 👋, I'm Carlos
 
-
-<a href="https://linkedin.com/in/plastikaweb" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/plastikaweb" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/plastikaweb" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-
+<table align="center">
+     <tr>
+          <td valign="center" width="50%">
+               <div align="right">
+                    <a href="https://linkedin.com/in/plastikaweb" target="_blank">
+                    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px" height="35" />
+                    </a>
+                    <a href="https://github.com/plastikaweb" target="_blank">
+                    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" height="35" style="margin-bottom: 5px" />
+                    </a>
+                    <a href="https://www.plastikaweb.com" target="_blank">
+                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="plastikaweb" height="30" style="margin-bottom: 8px" >
+                    </a>
+               </div>
+          </td>
+          <td>
+               <div align="left">
+               <a href="https://interstate21.com/certificate/?code=4E30VHP" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
+               </div>
+          </td>
+     </tr>
+</table>
 ### Helping clients achieve success by sharing best-practice solutions
 
 I'm a `freelancer frontend developer` with over 16 years of expertise in web development. Here's a little bit about me and what I can offer:
@@ -36,7 +40,9 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning `NX generators`, and `typescript` and `web accessibility` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
+- 🌱 I’m currently learning `ionic` and `cypress` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
+
+- 💪🏽 Working on internal Nx monorepo to experiment with good practices and the latest angular versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
 
 - ❓ Ask me about anything related to `angular`, `Nx` and related technologies.
 
@@ -60,7 +66,31 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 ## Languages and Tools
 
+![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 <div align="center">
+
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
@@ -72,7 +102,6 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
 </div>
 
