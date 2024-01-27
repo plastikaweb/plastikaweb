@@ -24,7 +24,7 @@
 
 ### Helping clients achieve success by sharing best-practice solutions
 
-I'm a `freelancer frontend developer` with over 16 years of expertise in web development. Here's a little bit about me and what I can offer:
+I'm a `freelancer frontend developer` with over 17 years of expertise in web development. Here's a little bit about me and what I can offer:
 
 - Main specialties: `Angular`, `NX`, and @`ngrx`.
 
@@ -39,7 +39,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning `ionic` and `cypress` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
+- 🌱 I’m currently learning `advanced CSS`, `tailwindCSS` and `vite` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
 
 - 💪🏽 Working on internal Nx monorepo to experiment with good practices and the latest angular versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
 
