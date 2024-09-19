@@ -28,22 +28,22 @@ I'm a `freelancer frontend developer` with over 17 years of expertise in web dev
 
 - Main specialties: `Angular`, `NX`, and @`ngrx`.
 
-- Approach: I'm a creative problem solver who is dedicated to delivering results that usually exceed my clients' expectations.
+- Approach: I'm a creative problem solver dedicated to delivering results that usually exceed my client's expectations.
 
 - Focus: Whether working independently or in a team, I always keep the final product in mind and I am committed to delivering solutions that look great and are accessible to all users by applying clean code.
 
-- Passion: I'm a motivated individual who seeks to use my creative abilities and grow as a person and a professional. I love generating new ideas and seeing them through to completion.
+- Passion: I'm motivated to use my creative abilities and grow as a person and a professional. I love generating new ideas and seeing them through to completion.
 
 - Assets: My great assets are organization, communication, and the ability to learn quickly.
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning `advanced CSS`, `tailwindCSS` and `vite` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
+- 🌱 I’m currently learning `advanced CSS`, `tailwindCSS` and `firebase` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
 
 - 💪🏽 Working on internal Nx monorepo to experiment with good practices and the latest angular versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
 
-- ❓ Ask me about anything related to `angular`, `Nx` and related technologies.
+- ❓ Ask me about anything related to `angular`, `Nx`, and related technologies.
 
 - ✉️ Contact me at <info@plastikaweb.com> .
 
