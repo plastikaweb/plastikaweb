@@ -39,7 +39,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning `advanced CSS`, `tailwindCSS` and `firebase` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a>.
+- 🌱 I’m currently learning `advanced CSS` and `firebase` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a> and first steps with ngrx-signal-store.
 
 - 💪🏽 Working on internal Nx monorepo to experiment with good practices and the latest angular versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
 
