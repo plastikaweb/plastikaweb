@@ -47,7 +47,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 - ✉️ Contact me at <info@plastikaweb.com> .
 
-- 📄 Take a look at <a href="https://www.plastikaweb.com" target="_blank">www.plastikaweb.com</a> and my <a href="https://www.plastikaweb.com/assets/docs/carlos_matheu_plastikaweb.pdf" target="_blank">CV</a>.
+- 📄 Take a look at <a href="https://www.plastikaweb.com" target="_blank">www.plastikaweb.com</a> and my <a href="https://www.plastikaweb.com/docs/carlos_matheu_plastikaweb.pdf" target="_blank">CV</a>.
 
 </td><td valign="top" width="50%">
 
