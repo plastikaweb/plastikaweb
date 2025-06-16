@@ -12,7 +12,7 @@
                          <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="carlos matheu - freelancer" height="40" >
                     </a>
                     <a href="https://www.plastikaweb.com" target="_blank">
-                         <img src="https://img.shields.io/badge/plastikaweb-29B2FE?style=for-the-badge&logo=angular&logoColor=white" alt="plastikaweb" height="40" >
+                         <img src="https://img.shields.io/badge/plastikaweb-29BccE?style=for-the-badge&logo=angular&logoColor=white" alt="plastikaweb" height="40" >
                     </a>
                </div>
           </td>
