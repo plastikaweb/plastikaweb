@@ -8,8 +8,11 @@
                     <a href="https://linkedin.com/in/plastikaweb" target="_blank">
                     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" height="40" />
                     </a>
+                     <a href="https://www.freelancer.com/u/plastikaweb" target="_blank">
+                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="carlos matheu - freelancer" height="40" >
+                    </a>
                     <a href="https://www.plastikaweb.com" target="_blank">
-                         <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="plastikaweb" height="40" >
+                         <img src="https://img.shields.io/badge/custom-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="plastikaweb" height="40" >
                     </a>
                </div>
           </td>
@@ -24,7 +27,7 @@
 
 ### Helping clients achieve success by sharing best-practice solutions
 
-I'm a `freelancer frontend developer` with over 17 years of expertise in web development. Here's a little bit about me and what I can offer:
+I'm a `freelancer frontend developer` with over 15 years of expertise in web development. Here's a little bit about me and what I can offer:
 
 - Main specialties: `Angular`, `NX`, and @`ngrx`.
 
@@ -38,8 +41,6 @@ I'm a `freelancer frontend developer` with over 17 years of expertise in web dev
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
 <table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning `advanced CSS` and `firebase` at <a href="https://frontendmasters.com" target="_blank">FrontendMasters</a> and first steps with ngrx-signal-store.
 
 - 💪🏽 Working on internal Nx monorepo to experiment with good practices and the latest angular versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
 
@@ -87,6 +88,9 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%230A0FFF.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Headless wordpress](https://img.shields.io/badge/wordpress-%230A0FFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 ### Third party libaries I've worked with in an angular environment
 
