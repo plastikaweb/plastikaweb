@@ -12,7 +12,7 @@
                          <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="carlos matheu - freelancer" height="40" >
                     </a>
                     <a href="https://www.plastikaweb.com" target="_blank">
-                         <img src="https://img.shields.io/badge/custom-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=black" alt="plastikaweb" height="40" >
+                         <img src="https://img.shields.io/badge/plastikaweb-29B2FE?style=for-the-badge&logo=angular&logoColor=white" alt="plastikaweb" height="40" >
                     </a>
                </div>
           </td>
@@ -88,8 +88,8 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%230A0FFF.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Headless wordpress](https://img.shields.io/badge/wordpress-%230A0FFF.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%230A0000.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Headless wordpress](https://img.shields.io/badge/wordpress-%230A9910.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
 ### Third party libaries I've worked with in an angular environment
