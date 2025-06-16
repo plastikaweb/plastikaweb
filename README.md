@@ -18,7 +18,7 @@
           </td>
           <td>
                <div align="left">
-               <a href="https://interstate21.com/certificate/?code=4E30VHP" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
+               <a href="https://api.certificates.dev/certificates/a35cc717-f925-4315-bc22-404552145d78/download?signature=c4262d0851b604f000e5b037f51fd95d657189d8c5bf9631d431629999d2038e" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
                <a href="https://courses.edx.org/certificates/02263ba0e4cf4945a8ed304eeace33ea" target="_blank"><img src="https://www.plastikaweb.com/img/wai0.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
                </div>
           </td>
