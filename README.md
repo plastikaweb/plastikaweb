@@ -1,4 +1,3 @@
-
 ## Hey 👋, I'm Carlos
 
 <table width="100%" align="center">
@@ -18,32 +17,31 @@
           </td>
           <td>
                <div align="left">
-               <a href="https://api.certificates.dev/certificates/a35cc717-f925-4315-bc22-404552145d78/download?signature=c4262d0851b604f000e5b037f51fd95d657189d8c5bf9631d431629999d2038e" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
-               <a href="https://courses.edx.org/certificates/02263ba0e4cf4945a8ed304eeace33ea" target="_blank"><img src="https://www.plastikaweb.com/img/wai0.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
+               <a href="https://interstate21.com/certificate/?code=4E30VHP" target="_blank"><img src="angular-level2.png" height="100" width="100" alt="Angular Developer Expert Level 2"></a>
+               <!-- Added linked image from GitHub readme (camo URL) -->
+               <a href="https://courses.edx.org/certificates/02263ba0e4cf4945a8ed304eeace33ea" target="_blank">
+                    <img src="https://camo.githubusercontent.com/7b5986bcca2e6e15a37349bc8ef5fd9ca3ac5d44816ba3828c9268c7683d7207/68747470733a2f2f7777772e706c617374696b617765622e636f6d2f696d672f776169302e706e67" height="100" width="100" alt="WAI Badge" />
+               </a>
                </div>
           </td>
      </tr>
 </table>
 <br>
 
-### Helping clients achieve success by sharing best-practice solutions
+### Helping clients achieve success by sharing `best-practice` solutions
 
-I'm a `freelancer frontend developer` with over 15 years of expertise in web development. Here's a little bit about me and what I can offer:
+I'm a freelance frontend developer with 17+ years building accessible, maintainable web applications. I specialize in `Angular`, `Nx` and `@ngrx signal store`, and I focus on delivering polished, high-performance products that solve real user problems.
 
-- Main specialties: `Angular`, `NX`, and @`ngrx`.
-
-- Approach: I'm a creative problem solver dedicated to delivering results that usually exceed my client's expectations.
-
-- Focus: Whether working independently or in a team, I always keep the final product in mind and I am committed to delivering solutions that look great and are accessible to all users by applying clean code.
-
-- Passion: I'm motivated to use my creative abilities and grow as a person and a professional. I love generating new ideas and seeing them through to completion.
-
-- Assets: My great assets are organization, communication, and the ability to learn quickly.
+- Main specialties: `Angular`, `Nx`, `@ngrx signal store`.
+- Approach: Practical problem solving with an emphasis on `clean, testable code`.
+- Focus: `UX`, `accessibility` (`a11y`) and `maintainability` — whether working solo or with teams.
+- Passion: Constant learning, creative solutions and seeing ideas through to production.
+- Strengths: Organization, clear communication and fast ramp‑up on new technologies.
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
 <table><tr><td valign="top" width="50%">
 
-- 💪🏽 Working on internal Nx monorepo to experiment with good practices and the latest angular versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
+- 💪🏽 Working on internal `Nx` monorepo to experiment with good practices and the latest `Angular` versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
 
 - ❓ Ask me about anything related to `angular`, `Nx`, and related technologies.
 
@@ -87,33 +85,35 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PocketBase](https://img.shields.io/badge/pocketbase-%23007ACC?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%230A0000.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Headless wordpress](https://img.shields.io/badge/wordpress-%230A9910.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-### Third party libaries I've worked with in an angular environment
+### Third-party libraries I've used in `Angular` projects
 
 <ul align="left">
-     <li><a target="_blank" style="margin: 10px" href="https://formly.dev/">ngx-formly</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/assuncaocharles/ngx-indexed-db">ngx-indexed-db</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/czeckd/angular-svg-icon">angular-svg-icon</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://fontawesome.com">font-awesome</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://the-guild.dev/graphql/apollo-angular">apollo-angular</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://docs.amplify.aws/">AWS-amplify / cognito</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/swimlane/ngx-charts">ngx-charts</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://valor-software.com/ngx-bootstrap">ngx-bootstrap</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://primeng.org/">primeNG</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/swimlane/ngx-datatable">ngx-datatable</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/brix/crypto-js">crypto-js</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/ngx-translate/core">ngx-translate</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/angular/flex-layout">flex-layout</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/compodoc/compodoc">compodoc</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/firebase/geofire-js">firebase/geofire</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://leafletjs.com">leaflet</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/stevermeister/ngx-cookie-service">ngx-cookie-service</a></li>
-     <li><a target="_blank" style="margin: 10px" href="https://github.com/apexcharts/ng-apexcharts">ng-apexcharts</a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://formly.dev/"><code>ngx-formly</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/assuncaocharles/ngx-indexed-db"><code>ngx-indexed-db</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/czeckd/angular-svg-icon"><code>angular-svg-icon</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://fontawesome.com"><code>font-awesome</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://the-guild.dev/graphql/apollo-angular"><code>apollo-angular</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://docs.amplify.aws/"><code>AWS-amplify</code> / <code>Cognito</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/swimlane/ngx-charts"><code>ngx-charts</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://valor-software.com/ngx-bootstrap"><code>ngx-bootstrap</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://primeng.org/"><code>primeNG</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/swimlane/ngx-datatable"><code>ngx-datatable</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/brix/crypto-js"><code>crypto-js</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/ngx-translate/core"><code>ngx-translate</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/angular/flex-layout"><code>flex-layout</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/compodoc/compodoc"><code>compodoc</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/firebase/geofire-js"><code>firebase/geofire</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://leafletjs.com"><code>leaflet</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/stevermeister/ngx-cookie-service"><code>ngx-cookie-service</code></a></li>
+     <li><a target="_blank" style="margin: 10px" href="https://github.com/apexcharts/ng-apexcharts"><code>ng-apexcharts</code></a></li>
 </ul>
 
 <br/>
