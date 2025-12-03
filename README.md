@@ -133,10 +133,6 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 ---
 
-<img align="center" src="https://streak-stats.demolab.com/?user=plastikaweb" alt="GitHub Streak plastikaweb profile" />
-
----
-
 ## Profile Trophies
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img
