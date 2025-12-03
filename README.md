@@ -141,7 +141,8 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 ## Profile Trophies
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=plastikaweb)](https://git.io/streak-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-profile-trophy.vercel.app/?username=plastikaweb&row=1&column=7" alt="plastikaweb" /></a> </p>
 
 ---
 
