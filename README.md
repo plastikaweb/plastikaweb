@@ -121,28 +121,26 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 ## Github Stats
 
-<div><img align="center"
+<img align="center"
      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=plastikaweb&show_icons=true&locale=en&layout=compact&cache_seconds=86400&theme=transparent"
-     alt="Top languages used by plastikaweb" /></div>
+     alt="Top languages used by plastikaweb" />
 
 ---
 
-<div><img align="center"
+<img align="center"
      src="https://github-readme-stats-sigma-five.vercel.app/api/?username=plastikaweb&show_icons=true&locale=en&cache_seconds=86400&theme=transparent"
      alt="GitHub stats for plastikaweb" />
-</div>
 
 ---
 
-<div><img align="center" src="https://streak-stats.demolab.com/?user=plastikaweb&theme=transparent&hide_border=true" alt="GitHub streak stats for plastikaweb" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=plastikaweb)](https://git.io/streak-stats)
 
 ---
 
 ## Profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-profile-trophy.vercel.app/?username=plastikaweb&row=1&column=7" alt="plastikaweb" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-profile-trophy.vercel.app/?username=plastikaweb&row=1&column=7" alt="plastikaweb" /></a>
 
 ---
 
