@@ -39,6 +39,8 @@ I'm a freelance frontend developer with 17+ years building accessible, maintaina
 - Strengths: Organization, clear communication and fast ramp‑up on new technologies.
 As a developer, I believe that being `creative` and having a `focus on the client and the final product` is the key.
 
+---
+
 <table><tr><td valign="top" width="50%">
 
 - ❓ Ask me about anything related to `angular`, `Nx`, and related technologies.
@@ -59,7 +61,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 </td></tr></table>
 
-<br/>
+---
 
 ## Languages and Tools
 
@@ -90,6 +92,8 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 ![Astro](https://img.shields.io/badge/astro-%230A0000.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Headless wordpress](https://img.shields.io/badge/wordpress-%230A9910.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
+---
+
 ### Third-party libraries I've used in `Angular` projects
 
 <ul align="left">
@@ -113,26 +117,32 @@ As a developer, I believe that being `creative` and having a `focus on the clien
      <li><a target="_blank" style="margin: 10px" href="https://github.com/apexcharts/ng-apexcharts"><code>ng-apexcharts</code></a></li>
 </ul>
 
-<br/>
+---
 
 ## Github Stats
 
-<div><img align="left"
+<div><img align="center"
      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=plastikaweb&show_icons=true&locale=en&layout=compact&cache_seconds=86400&theme=transparent"
      alt="Top languages used by plastikaweb" /></div>
+
+---
 
 <div><img align="center"
      src="https://github-readme-stats-sigma-five.vercel.app/api/?username=plastikaweb&show_icons=true&locale=en&cache_seconds=86400&theme=transparent"
      alt="GitHub stats for plastikaweb" />
 </div>
 
+---
+
 <div><img align="center" src="https://streak-stats.demolab.com/?user=plastikaweb&theme=transparent&hide_border=true" alt="GitHub streak stats for plastikaweb" />
 </div>
 
+---
+
 ## Profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-profile-trophy.vercel.app/?username=plastikaweb&row=1&column=7" alt="plastikaweb" /></a> </p>
-----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=plastikaweb)](https://git.io/streak-stats)
+
+---
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=plastikaweb&&style=flat-square)
