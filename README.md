@@ -133,7 +133,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=plastikaweb)](https://git.io/streak-stats)
+<img align="center" src="https://streak-stats.demolab.com/?user=plastikaweb" alt="GitHub Streak plastikaweb profile" />
 
 ---
 
