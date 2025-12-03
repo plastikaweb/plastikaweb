@@ -41,11 +41,9 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 
 <table><tr><td valign="top" width="50%">
 
-- 💪🏽 Working on internal `Nx` monorepo to experiment with good practices and the latest `Angular` versions: <a href="https://github.com/plastikaweb/plastikspace">plastikspace</a>
-
 - ❓ Ask me about anything related to `angular`, `Nx`, and related technologies.
 
-- ✉️ Contact me at <info@plastikaweb.com> .
+- ✉️ Contact me at <info@plastikaweb.com>
 
 - 📄 Take a look at <a href="https://www.plastikaweb.com" target="_blank">www.plastikaweb.com</a> and my <a href="https://www.plastikaweb.com/docs/carlos_matheu_plastikaweb.pdf" target="_blank">CV</a>.
 
@@ -55,7 +53,7 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 <p>A great starting point to get a feel for my coding style and approach:</p>
 
 <a href="https://github.com/plastikaweb/plastikspace">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=plastikaweb&repo=plastikspace"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=plastikaweb&repo=plastikspace&cache_seconds=86400&theme=transparent" alt="Pinned repo card for plastikspace" />
 </a>
 </div>
 
@@ -92,7 +90,6 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 ![Astro](https://img.shields.io/badge/astro-%230A0000.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Headless wordpress](https://img.shields.io/badge/wordpress-%230A9910.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-
 ### Third-party libraries I've used in `Angular` projects
 
 <ul align="left">
@@ -121,15 +118,15 @@ As a developer, I believe that being `creative` and having a `focus on the clien
 ## Github Stats
 
 <div><img align="left"
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=plastikaweb&show_icons=true&locale=en&layout=compact"
-     alt="plastikaweb" /></div>
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=plastikaweb&show_icons=true&locale=en&layout=compact&cache_seconds=86400&theme=transparent"
+     alt="Top languages used by plastikaweb" /></div>
 
-<div>&nbsp;<img align="center"
-     src="https://github-readme-stats.vercel.app/api?username=plastikaweb&show_icons=true&locale=en"
-     alt="plastikaweb" />
+<div><img align="center"
+     src="https://github-readme-stats-sigma-five.vercel.app/api/?username=plastikaweb&show_icons=true&locale=en&cache_seconds=86400&theme=transparent"
+     alt="GitHub stats for plastikaweb" />
 </div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plastikaweb&" alt="plastikaweb" />
+<div><img align="center" src="https://streak-stats.demolab.com/?user=plastikaweb&theme=transparent&hide_border=true" alt="GitHub streak stats for plastikaweb" />
 </div>
 
 ## Profile Trophies
